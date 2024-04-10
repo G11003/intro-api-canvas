@@ -248,7 +248,6 @@ function draw_zelda() {
     ctx.fill();
   }
 }
-
 draw_cuadrado();
 draw_path();
 draw_equilatero();
@@ -260,3 +259,4 @@ draw_bezier3();
 draw_comb();
 draw_path2();
 draw_zelda();
+
